@@ -19,12 +19,9 @@ I am passionate about computational biology and bioinformatics projects, includi
 - Biopython, Pandas, NumPy, Matplotlib, ggplot2
 - Linux, Git, GitHub
 - Sequence & Network Analysis
-
-## 📌 Featured Projects
-- **Drug Repurposing for Rheumatoid Arthritis** – Computational analysis and candidate identification
-- **Sequence & Gene Expression Analysis** – Scripts and workflows in Python & R
-- **Protein-Protein Interaction Networks** – Network construction and visualization
-- **Bioinformatics Python Scripts** – Collection of reusable scripts for data analysis
+- Molecular Docking
+- Molecular Dynamic Simulations
+- Pharmacophore Modeling
 
 ## 📫 Connect
 - LinkedIn: [https://www.linkedin.com/in/laiba-abbasi-819306260](https://www.linkedin.com/in/laiba-abbasi-819306260)
